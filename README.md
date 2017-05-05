@@ -4,4 +4,5 @@ First Repository
 Learning to github
 
 
-Merge conflict detector
+
+Merge Conflict detector resolved
